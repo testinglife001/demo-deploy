@@ -1,0 +1,20 @@
+[] at backend
+    npm run dev
+[] create file
+    vercel.json
+[] create git repository
+[] github > github profile > repositories > new
+    https://github.com/testinglife001/demo-deploy 
+    …or create a new repository on the command line
+[] echo "# demo-deploy" >> README.md
+[] git init
+[] git add README.md
+[] git commit -m "first commit"
+[] git branch -M main
+[] git remote add origin https://github.com/testinglife001/demo-deploy.git
+[] git push -u origin main
+...
+[] go to vercel
+[] vercel > dashboard > add new > project > import git repository
+[] configure project 
+[] 
